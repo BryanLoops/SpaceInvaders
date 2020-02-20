@@ -2,7 +2,7 @@
 Attempt to create something like the classic game Space Invaders.
 Still incomplete.
 
-#Missing:
+Missing:
 #Enemy spawn
 #Enemy attacks
 #Player attack
